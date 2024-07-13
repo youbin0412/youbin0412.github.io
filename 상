@@ -1,0 +1,22 @@
+{
+    "pageTitle": "나는 뭘까 테스트",
+    "mainTitle": "난 개그맨상일까 아이돌상일까",
+    "subtitle": "얼굴로 보는 인공지능 아이돌 테스트",
+    "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
+    
+    "modelUrl": "https://teachablemachine.withgoogle.com/train/image",
+    "classDetails": [
+        {
+            "name": "개그맨",
+            "title": "개그맨상",
+            "explain": "웃기고 못생긴상",
+            "celeb": "개그맨:박나래, 최준, 신동엽, 광명수"
+            "color": "rgba(27, 175, 234, 1)"
+        },
+        {
+            "name": "아이돌",
+            "title": "아이돌사상",
+            "explain": "예쁘고 잘생긴상",
+            "celeb": "아이돌: 방탄소년단 뷔, 에스파 윈터, 스트레이키즈 필릭스, 라이즈 원빈, 아이브 장원영",
+            "color": "rgba(251, 176, 59, 1)"
+        }
